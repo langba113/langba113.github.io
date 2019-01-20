@@ -82,3 +82,5 @@ deploy:
     user: root
     host: 
     dir:  /data/wwwroot/
+
+theme: jekyll-theme-leap-day
